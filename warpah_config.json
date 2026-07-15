@@ -34,11 +34,21 @@
       "Label": "VAMPIRE",
       "Key": "Vampire",
       "Data": [
-        {"Name": "Idle", "Type": "idle", "ID": "0"},
-        {"Name": "Walk", "Type": "walk", "ID": "0"},
-        {"Name": "Run", "Type": "run", "ID": "0"},
-        {"Name": "Jump", "Type": "jump", "ID": "0"},
-        {"Name": "Fall", "Type": "fall", "ID": "0"}
+        {
+          "Name": "Idle",
+          "Type": "idle",
+          "ID": [
+            {"ID": "10921315373", "Weight": 9},
+            {"ID": "10921316709", "Weight": 1}
+          ]
+        },
+        {"Name": "Walk", "Type": "walk", "ID": "10921326949"},
+        {"Name": "Run", "Type": "run", "ID": "10921320299"},
+        {"Name": "Jump", "Type": "jump", "ID": "10921322186"},
+        {"Name": "Fall", "Type": "fall", "ID": "10921321317"},
+        {"Name": "Swim", "Type": "swim", "ID": "10921324408"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "10921325443"},
+        {"Name": "Climb", "Type": "climb", "ID": "10921314188"}
       ]
     },
 
@@ -46,11 +56,21 @@
       "Label": "NINJA",
       "Key": "Ninja",
       "Data": [
-        {"Name": "Idle", "Type": "idle", "ID": "0"},
-        {"Name": "Walk", "Type": "walk", "ID": "0"},
-        {"Name": "Run", "Type": "run", "ID": "0"},
-        {"Name": "Jump", "Type": "jump", "ID": "0"},
-        {"Name": "Fall", "Type": "fall", "ID": "0"}
+        {
+          "Name": "Idle",
+          "Type": "idle",
+          "ID": [
+            {"ID": "10921155160", "Weight": 9},
+            {"ID": "10921155867", "Weight": 1}
+          ]
+        },
+        {"Name": "Walk", "Type": "walk", "ID": "10921162768"},
+        {"Name": "Run", "Type": "run", "ID": "10921157929"},
+        {"Name": "Jump", "Type": "jump", "ID": "10921160088"},
+        {"Name": "Fall", "Type": "fall", "ID": "10921159222"},
+        {"Name": "Swim", "Type": "swim", "ID": "10921161002"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "10922757002"},
+        {"Name": "Climb", "Type": "climb", "ID": "10921154678"}
       ]
     },
 
@@ -58,11 +78,21 @@
       "Label": "Pirate",
       "Key": "Pirate",
       "Data": [
-        {"Name": "Idle", "Type": "idle", "ID": "0"},
-        {"Name": "Walk", "Type": "walk", "ID": "0"},
-        {"Name": "Run", "Type": "run", "ID": "0"},
-        {"Name": "Jump", "Type": "jump", "ID": "0"},
-        {"Name": "Fall", "Type": "fall", "ID": "0"}
+        {
+          "Name": "Idle",
+          "Type": "idle",
+          "ID": [
+            {"ID": "750781874", "Weight": 9},
+            {"ID": "750782770", "Weight": 1}
+          ]
+        },
+        {"Name": "Walk", "Type": "walk", "ID": "750785693"},
+        {"Name": "Run", "Type": "run", "ID": "750783738"},
+        {"Name": "Jump", "Type": "jump", "ID": "750782230"},
+        {"Name": "Fall", "Type": "fall", "ID": "750780242"},
+        {"Name": "Swim", "Type": "swim", "ID": "750784579"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "750785176"},
+        {"Name": "Climb", "Type": "climb", "ID": "750779899"}
       ]
     },
 
@@ -70,11 +100,21 @@
       "Label": "Superhero",
       "Key": "Superhero",
       "Data": [
-        {"Name": "Idle", "Type": "idle", "ID": "0"},
-        {"Name": "Walk", "Type": "walk", "ID": "0"},
-        {"Name": "Run", "Type": "run", "ID": "0"},
-        {"Name": "Jump", "Type": "jump", "ID": "0"},
-        {"Name": "Fall", "Type": "fall", "ID": "0"}
+        {
+          "Name": "Idle",
+          "Type": "idle",
+          "ID": [
+            {"ID": "10921288909", "Weight": 9},
+            {"ID": "10921290167", "Weight": 1}
+          ]
+        },
+        {"Name": "Walk", "Type": "walk", "ID": "10921298616"},
+        {"Name": "Run", "Type": "run", "ID": "10921291831"},
+        {"Name": "Jump", "Type": "jump", "ID": "10921294559"},
+        {"Name": "Fall", "Type": "fall", "ID": "10921293373"},
+        {"Name": "Swim", "Type": "swim", "ID": "10921295495"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "10921297391"},
+        {"Name": "Climb", "Type": "climb", "ID": "10921286911"}
       ]
     },
 
@@ -82,11 +122,21 @@
       "Label": "Toy",
       "Key": "Toy",
       "Data": [
-        {"Name": "Idle", "Type": "idle", "ID": "0"},
-        {"Name": "Walk", "Type": "walk", "ID": "0"},
-        {"Name": "Run", "Type": "run", "ID": "0"},
-        {"Name": "Jump", "Type": "jump", "ID": "0"},
-        {"Name": "Fall", "Type": "fall", "ID": "0"}
+        {
+          "Name": "Idle",
+          "Type": "idle",
+          "ID": [
+            {"ID": "10921301576", "Weight": 9},
+            {"ID": "10921302207", "Weight": 1}
+          ]
+        },
+        {"Name": "Walk", "Type": "walk", "ID": "10921312010"},
+        {"Name": "Run", "Type": "run", "ID": "10921306285"},
+        {"Name": "Jump", "Type": "jump", "ID": "10921308158"},
+        {"Name": "Fall", "Type": "fall", "ID": "10921307241"},
+        {"Name": "Swim", "Type": "swim", "ID": "10921309319"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "10921310341"},
+        {"Name": "Climb", "Type": "climb", "ID": "10921300839"}
       ]
     },
 
@@ -94,11 +144,21 @@
       "Label": "Astronaut",
       "Key": "Astronaut",
       "Data": [
-        {"Name": "Idle", "Type": "idle", "ID": "0"},
-        {"Name": "Walk", "Type": "walk", "ID": "0"},
-        {"Name": "Run", "Type": "run", "ID": "0"},
-        {"Name": "Jump", "Type": "jump", "ID": "0"},
-        {"Name": "Fall", "Type": "fall", "ID": "0"}
+        {
+          "Name": "Idle",
+          "Type": "idle",
+          "ID": [
+            {"ID": "10921034824", "Weight": 9},
+            {"ID": "10921036806", "Weight": 1}
+          ]
+        },
+        {"Name": "Walk", "Type": "walk", "ID": "10921046031"},
+        {"Name": "Run", "Type": "run", "ID": "10921039308"},
+        {"Name": "Jump", "Type": "jump", "ID": "10921042494"},
+        {"Name": "Fall", "Type": "fall", "ID": "10921040576"},
+        {"Name": "Swim", "Type": "swim", "ID": "10921044000"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "10921045006"},
+        {"Name": "Climb", "Type": "climb", "ID": "10921032124"}
       ]
     },
 
@@ -106,11 +166,21 @@
       "Label": "Zombie",
       "Key": "Zombie",
       "Data": [
-        {"Name": "Idle", "Type": "idle", "ID": "0"},
-        {"Name": "Walk", "Type": "walk", "ID": "0"},
-        {"Name": "Run", "Type": "run", "ID": "0"},
-        {"Name": "Jump", "Type": "jump", "ID": "0"},
-        {"Name": "Fall", "Type": "fall", "ID": "0"}
+        {
+          "Name": "Idle",
+          "Type": "idle",
+          "ID": [
+            {"ID": "10921344533", "Weight": 9},
+            {"ID": "10921345304", "Weight": 1}
+          ]
+        },
+        {"Name": "Walk", "Type": "walk", "ID": "10921355261"},
+        {"Name": "Run", "Type": "run", "ID": "616163682"},
+        {"Name": "Jump", "Type": "jump", "ID": "10921351278"},
+        {"Name": "Fall", "Type": "fall", "ID": "10921350320"},
+        {"Name": "Swim", "Type": "swim", "ID": "10921352344"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "10921353442"},
+        {"Name": "Climb", "Type": "climb", "ID": "10921343576"}
       ]
     },
 
@@ -118,11 +188,21 @@
       "Label": "Werewolf",
       "Key": "Werewolf",
       "Data": [
-        {"Name": "Idle", "Type": "idle", "ID": "0"},
-        {"Name": "Walk", "Type": "walk", "ID": "0"},
-        {"Name": "Run", "Type": "run", "ID": "0"},
-        {"Name": "Jump", "Type": "jump", "ID": "0"},
-        {"Name": "Fall", "Type": "fall", "ID": "0"}
+        {
+          "Name": "Idle",
+          "Type": "idle",
+          "ID": [
+            {"ID": "10921330408", "Weight": 9},
+            {"ID": "10921333667", "Weight": 1}
+          ]
+        },
+        {"Name": "Walk", "Type": "walk", "ID": "10921342074"},
+        {"Name": "Run", "Type": "run", "ID": "10921336997"},
+        {"Name": "Jump", "Type": "jump", "ID": "1083218792"},
+        {"Name": "Fall", "Type": "fall", "ID": "10921337907"},
+        {"Name": "Swim", "Type": "swim", "ID": "10921340419"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "10921341319"},
+        {"Name": "Climb", "Type": "climb", "ID": "10921329322"}
       ]
     },
 
@@ -130,11 +210,14 @@
       "Label": "Cutedoll",
       "Key": "Cutedoll",
       "Data": [
-        {"Name": "Idle", "Type": "idle", "ID": "0"},
-        {"Name": "Walk", "Type": "walk", "ID": "0"},
-        {"Name": "Run", "Type": "run", "ID": "0"},
-        {"Name": "Jump", "Type": "jump", "ID": "0"},
-        {"Name": "Fall", "Type": "fall", "ID": "0"}
+        {"Name": "Idle", "Type": "idle", "ID": "76390709796866"},
+        {"Name": "Walk", "Type": "walk", "ID": "73975983593356"},
+        {"Name": "Run", "Type": "run", "ID": "112343215730383"},
+        {"Name": "Jump", "Type": "jump", "ID": "139177420076878"},
+        {"Name": "Fall", "Type": "fall", "ID": "90200598810201"},
+        {"Name": "Swim", "Type": "swim", "ID": "106840731014710"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "128194396720669"},
+        {"Name": "Climb", "Type": "climb", "ID": "118902625530228"}
       ]
     },
 
@@ -142,11 +225,21 @@
       "Label": "Cartoony",
       "Key": "Cartoony",
       "Data": [
-        {"Name": "Idle", "Type": "idle", "ID": "0"},
-        {"Name": "Walk", "Type": "walk", "ID": "0"},
-        {"Name": "Run", "Type": "run", "ID": "0"},
-        {"Name": "Jump", "Type": "jump", "ID": "0"},
-        {"Name": "Fall", "Type": "fall", "ID": "0"}
+        {
+          "Name": "Idle",
+          "Type": "idle",
+          "ID": [
+            {"ID": "10921071918", "Weight": 9},
+            {"ID": "10921072875", "Weight": 1}
+          ]
+        },
+        {"Name": "Walk", "Type": "walk", "ID": "10921082452"},
+        {"Name": "Run", "Type": "run", "ID": "10921076136"},
+        {"Name": "Jump", "Type": "jump", "ID": "10921078135"},
+        {"Name": "Fall", "Type": "fall", "ID": "10921077030"},
+        {"Name": "Swim", "Type": "swim", "ID": "10921079380"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "10921081059"},
+        {"Name": "Climb", "Type": "climb", "ID": "10921070953"}
       ]
     },
 
@@ -154,11 +247,21 @@
       "Label": "Robot",
       "Key": "Robot",
       "Data": [
-        {"Name": "Idle", "Type": "idle", "ID": "0"},
-        {"Name": "Walk", "Type": "walk", "ID": "0"},
-        {"Name": "Run", "Type": "run", "ID": "0"},
-        {"Name": "Jump", "Type": "jump", "ID": "0"},
-        {"Name": "Fall", "Type": "fall", "ID": "0"}
+        {
+          "Name": "Idle",
+          "Type": "idle",
+          "ID": [
+            {"ID": "10921248039", "Weight": 9},
+            {"ID": "10921248831", "Weight": 1}
+          ]
+        },
+        {"Name": "Walk", "Type": "walk", "ID": "10921255446"},
+        {"Name": "Run", "Type": "run", "ID": "10921250460"},
+        {"Name": "Jump", "Type": "jump", "ID": "10921252123"},
+        {"Name": "Fall", "Type": "fall", "ID": "10921251156"},
+        {"Name": "Swim", "Type": "swim", "ID": "10921253142"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "10921253767"},
+        {"Name": "Climb", "Type": "climb", "ID": "10921247141"}
       ]
     },
 
@@ -166,11 +269,21 @@
       "Label": "Oldschool",
       "Key": "Oldschool",
       "Data": [
-        {"Name": "Idle", "Type": "idle", "ID": "0"},
-        {"Name": "Walk", "Type": "walk", "ID": "0"},
-        {"Name": "Run", "Type": "run", "ID": "0"},
-        {"Name": "Jump", "Type": "jump", "ID": "0"},
-        {"Name": "Fall", "Type": "fall", "ID": "0"}
+        {
+          "Name": "Idle",
+          "Type": "idle",
+          "ID": [
+            {"ID": "10921230744", "Weight": 9},
+            {"ID": "10921232093", "Weight": 1}
+          ]
+        },
+        {"Name": "Walk", "Type": "walk", "ID": "10921244891"},
+        {"Name": "Run", "Type": "run", "ID": "10921240218"},
+        {"Name": "Jump", "Type": "jump", "ID": "10921242013"},
+        {"Name": "Fall", "Type": "fall", "ID": "10921241244"},
+        {"Name": "Swim", "Type": "swim", "ID": "10921243048"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "10921244018"},
+        {"Name": "Climb", "Type": "climb", "ID": "10921229866"}
       ]
     },
 
@@ -178,11 +291,21 @@
       "Label": "GangnamStyle",
       "Key": "GangnamStyle",
       "Data": [
-        {"Name": "Idle", "Type": "idle", "ID": "0"},
-        {"Name": "Walk", "Type": "walk", "ID": "0"},
-        {"Name": "Run", "Type": "run", "ID": "0"},
-        {"Name": "Jump", "Type": "jump", "ID": "0"},
-        {"Name": "Fall", "Type": "fall", "ID": "0"}
+        {
+          "Name": "Idle",
+          "Type": "idle",
+          "ID": [
+            {"ID": "133331209053965", "Weight": 9},
+            {"ID": "133331209053965", "Weight": 1}
+          ]
+        },
+        {"Name": "Walk", "Type": "walk", "ID": "74755288831426"},
+        {"Name": "Run", "Type": "run", "ID": "96821586998288"},
+        {"Name": "Jump", "Type": "jump", "ID": "86039825002659"},
+        {"Name": "Fall", "Type": "fall", "ID": "137812734988742"},
+        {"Name": "Swim", "Type": "swim", "ID": "127324686511801"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "114271744311847"},
+        {"Name": "Climb", "Type": "climb", "ID": "103910510046833"}
       ]
     },
 
@@ -190,11 +313,21 @@
       "Label": "Skater",
       "Key": "Skater",
       "Data": [
-        {"Name": "Idle", "Type": "idle", "ID": "0"},
-        {"Name": "Walk", "Type": "walk", "ID": "0"},
-        {"Name": "Run", "Type": "run", "ID": "0"},
-        {"Name": "Jump", "Type": "jump", "ID": "0"},
-        {"Name": "Fall", "Type": "fall", "ID": "0"}
+        {
+          "Name": "Idle",
+          "Type": "idle",
+          "ID": [
+            {"ID": "122545331332536", "Weight": 9},
+            {"ID": "72665864569945", "Weight": 1}
+          ]
+        },
+        {"Name": "Walk", "Type": "walk", "ID": "73059365804498"},
+        {"Name": "Run", "Type": "run", "ID": "89156629057954"},
+        {"Name": "Jump", "Type": "jump", "ID": "79140034056165"},
+        {"Name": "Fall", "Type": "fall", "ID": "74577850128919"},
+        {"Name": "Swim", "Type": "swim", "ID": "84327447783021"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "124958165704948"},
+        {"Name": "Climb", "Type": "climb", "ID": "71627831922485"}
       ]
     },
 
@@ -202,11 +335,14 @@
       "Label": "Jetpack",
       "Key": "Jetpack",
       "Data": [
-        {"Name": "Idle", "Type": "idle", "ID": "0"},
-        {"Name": "Walk", "Type": "walk", "ID": "0"},
-        {"Name": "Run", "Type": "run", "ID": "0"},
-        {"Name": "Jump", "Type": "jump", "ID": "0"},
-        {"Name": "Fall", "Type": "fall", "ID": "0"}
+        {"Name": "Idle", "Type": "idle", "ID": "93640728356911"},
+        {"Name": "Walk", "Type": "walk", "ID": "116923188484214"},
+        {"Name": "Run", "Type": "run", "ID": "70671345502391"},
+        {"Name": "Jump", "Type": "jump", "ID": "127759838089214"},
+        {"Name": "Fall", "Type": "fall", "ID": "95597678794514"},
+        {"Name": "Swim", "Type": "swim", "ID": "97630253547235"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "70537848624305"},
+        {"Name": "Climb", "Type": "climb", "ID": "114930363435303"}
       ]
     },
 
@@ -214,11 +350,14 @@
       "Label": "Tall",
       "Key": "Tall",
       "Data": [
-        {"Name": "Idle", "Type": "idle", "ID": "0"},
-        {"Name": "Walk", "Type": "walk", "ID": "0"},
-        {"Name": "Run", "Type": "run", "ID": "0"},
-        {"Name": "Jump", "Type": "jump", "ID": "0"},
-        {"Name": "Fall", "Type": "fall", "ID": "0"}
+        {"Name": "Idle", "Type": "idle", "ID": "73645108622491"},
+        {"Name": "Walk", "Type": "walk", "ID": "135688192169179"},
+        {"Name": "Run", "Type": "run", "ID": "112589807061099"},
+        {"Name": "Jump", "Type": "jump", "ID": "135116215526921"},
+        {"Name": "Fall", "Type": "fall", "ID": "81777663014700"},
+        {"Name": "Swim", "Type": "swim", "ID": "87213847027655"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "127414741416496"},
+        {"Name": "Climb", "Type": "climb", "ID": "102914680645237"}
       ]
     },
 
@@ -226,11 +365,21 @@
       "Label": "Kawaii",
       "Key": "Kawaii",
       "Data": [
-        {"Name": "Idle", "Type": "idle", "ID": "0"},
-        {"Name": "Walk", "Type": "walk", "ID": "0"},
-        {"Name": "Run", "Type": "run", "ID": "0"},
-        {"Name": "Jump", "Type": "jump", "ID": "0"},
-        {"Name": "Fall", "Type": "fall", "ID": "0"}
+        {
+          "Name": "Idle",
+          "Type": "idle",
+          "ID": [
+            {"ID": "137434897497548", "Weight": 9},
+            {"ID": "74642942460483", "Weight": 1}
+          ]
+        },
+        {"Name": "Walk", "Type": "walk", "ID": "127225112023620"},
+        {"Name": "Run", "Type": "run", "ID": "77691616369709"},
+        {"Name": "Jump", "Type": "jump", "ID": "134473289142802"},
+        {"Name": "Fall", "Type": "fall", "ID": "96117211674694"},
+        {"Name": "Swim", "Type": "swim", "ID": "132215269798358"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "95378774382957"},
+        {"Name": "Climb", "Type": "climb", "ID": "87078664208712"}
       ]
     },
 
@@ -238,11 +387,14 @@
       "Label": "DivaEffortless",
       "Key": "DivaEffortless",
       "Data": [
-        {"Name": "Idle", "Type": "idle", "ID": "0"},
-        {"Name": "Walk", "Type": "walk", "ID": "0"},
-        {"Name": "Run", "Type": "run", "ID": "0"},
-        {"Name": "Jump", "Type": "jump", "ID": "0"},
-        {"Name": "Fall", "Type": "fall", "ID": "0"}
+        {"Name": "Idle", "Type": "idle", "ID": "96708826087005"},
+        {"Name": "Walk", "Type": "walk", "ID": "100783666275892"},
+        {"Name": "Run", "Type": "run", "ID": "127164887915027"},
+        {"Name": "Jump", "Type": "jump", "ID": "119697945159028"},
+        {"Name": "Fall", "Type": "fall", "ID": "140287076214596"},
+        {"Name": "Swim", "Type": "swim", "ID": "118064807649088"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "88473439275134"},
+        {"Name": "Climb", "Type": "climb", "ID": "132800247547755"}
       ]
     },
 
@@ -250,11 +402,21 @@
       "Label": "BillieEilish",
       "Key": "BillieEilish",
       "Data": [
-        {"Name": "Idle", "Type": "idle", "ID": "0"},
-        {"Name": "Walk", "Type": "walk", "ID": "0"},
-        {"Name": "Run", "Type": "run", "ID": "0"},
-        {"Name": "Jump", "Type": "jump", "ID": "0"},
-        {"Name": "Fall", "Type": "fall", "ID": "0"}
+        {
+          "Name": "Idle",
+          "Type": "idle",
+          "ID": [
+            {"ID": "102934602884410", "Weight": 9},
+            {"ID": "92151291669373", "Weight": 1}
+          ]
+        },
+        {"Name": "Walk", "Type": "walk", "ID": "81877886552514"},
+        {"Name": "Run", "Type": "run", "ID": "100920560634123"},
+        {"Name": "Jump", "Type": "jump", "ID": "117602630922781"},
+        {"Name": "Fall", "Type": "fall", "ID": "81072141180299"},
+        {"Name": "Swim", "Type": "swim", "ID": "121824746242877"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "78535650384589"},
+        {"Name": "Climb", "Type": "climb", "ID": "117873469361430"}
       ]
     }
   ]

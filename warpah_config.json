@@ -1,0 +1,261 @@
+{
+  "EmoteAnimations": [
+    {"Name": "2pa", "ID": "124312405433424"}
+  ],
+
+  "PoseAnimations": [
+    {"Name": "2017X Point", "ID": "93810591156861"}
+  ],
+
+  "Packs": [
+    {
+      "Label": "ADIDAS",
+      "Key": "Adidas",
+      "Data": [
+        {
+          "Name": "Idle",
+          "Type": "idle",
+          "ID": [
+            {"ID": "122257458498464", "Weight": 9},
+            {"ID": "102357151005774", "Weight": 1}
+          ]
+        },
+        {"Name": "Walk", "Type": "walk", "ID": "122150855457006"},
+        {"Name": "Run", "Type": "run", "ID": "82598234841035"},
+        {"Name": "Jump", "Type": "jump", "ID": "75290611992385"},
+        {"Name": "Fall", "Type": "fall", "ID": "98600215928904"},
+        {"Name": "Swim", "Type": "swim", "ID": "133308483266208"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "109346520324160"},
+        {"Name": "Climb", "Type": "climb", "ID": "88763136693023"}
+      ]
+    },
+
+    {
+      "Label": "VAMPIRE",
+      "Key": "Vampire",
+      "Data": [
+        {"Name": "Idle", "Type": "idle", "ID": "0"},
+        {"Name": "Walk", "Type": "walk", "ID": "0"},
+        {"Name": "Run", "Type": "run", "ID": "0"},
+        {"Name": "Jump", "Type": "jump", "ID": "0"},
+        {"Name": "Fall", "Type": "fall", "ID": "0"}
+      ]
+    },
+
+    {
+      "Label": "NINJA",
+      "Key": "Ninja",
+      "Data": [
+        {"Name": "Idle", "Type": "idle", "ID": "0"},
+        {"Name": "Walk", "Type": "walk", "ID": "0"},
+        {"Name": "Run", "Type": "run", "ID": "0"},
+        {"Name": "Jump", "Type": "jump", "ID": "0"},
+        {"Name": "Fall", "Type": "fall", "ID": "0"}
+      ]
+    },
+
+    {
+      "Label": "Pirate",
+      "Key": "Pirate",
+      "Data": [
+        {"Name": "Idle", "Type": "idle", "ID": "0"},
+        {"Name": "Walk", "Type": "walk", "ID": "0"},
+        {"Name": "Run", "Type": "run", "ID": "0"},
+        {"Name": "Jump", "Type": "jump", "ID": "0"},
+        {"Name": "Fall", "Type": "fall", "ID": "0"}
+      ]
+    },
+
+    {
+      "Label": "Superhero",
+      "Key": "Superhero",
+      "Data": [
+        {"Name": "Idle", "Type": "idle", "ID": "0"},
+        {"Name": "Walk", "Type": "walk", "ID": "0"},
+        {"Name": "Run", "Type": "run", "ID": "0"},
+        {"Name": "Jump", "Type": "jump", "ID": "0"},
+        {"Name": "Fall", "Type": "fall", "ID": "0"}
+      ]
+    },
+
+    {
+      "Label": "Toy",
+      "Key": "Toy",
+      "Data": [
+        {"Name": "Idle", "Type": "idle", "ID": "0"},
+        {"Name": "Walk", "Type": "walk", "ID": "0"},
+        {"Name": "Run", "Type": "run", "ID": "0"},
+        {"Name": "Jump", "Type": "jump", "ID": "0"},
+        {"Name": "Fall", "Type": "fall", "ID": "0"}
+      ]
+    },
+
+    {
+      "Label": "Astronaut",
+      "Key": "Astronaut",
+      "Data": [
+        {"Name": "Idle", "Type": "idle", "ID": "0"},
+        {"Name": "Walk", "Type": "walk", "ID": "0"},
+        {"Name": "Run", "Type": "run", "ID": "0"},
+        {"Name": "Jump", "Type": "jump", "ID": "0"},
+        {"Name": "Fall", "Type": "fall", "ID": "0"}
+      ]
+    },
+
+    {
+      "Label": "Zombie",
+      "Key": "Zombie",
+      "Data": [
+        {"Name": "Idle", "Type": "idle", "ID": "0"},
+        {"Name": "Walk", "Type": "walk", "ID": "0"},
+        {"Name": "Run", "Type": "run", "ID": "0"},
+        {"Name": "Jump", "Type": "jump", "ID": "0"},
+        {"Name": "Fall", "Type": "fall", "ID": "0"}
+      ]
+    },
+
+    {
+      "Label": "Werewolf",
+      "Key": "Werewolf",
+      "Data": [
+        {"Name": "Idle", "Type": "idle", "ID": "0"},
+        {"Name": "Walk", "Type": "walk", "ID": "0"},
+        {"Name": "Run", "Type": "run", "ID": "0"},
+        {"Name": "Jump", "Type": "jump", "ID": "0"},
+        {"Name": "Fall", "Type": "fall", "ID": "0"}
+      ]
+    },
+
+    {
+      "Label": "Cutedoll",
+      "Key": "Cutedoll",
+      "Data": [
+        {"Name": "Idle", "Type": "idle", "ID": "0"},
+        {"Name": "Walk", "Type": "walk", "ID": "0"},
+        {"Name": "Run", "Type": "run", "ID": "0"},
+        {"Name": "Jump", "Type": "jump", "ID": "0"},
+        {"Name": "Fall", "Type": "fall", "ID": "0"}
+      ]
+    },
+
+    {
+      "Label": "Cartoony",
+      "Key": "Cartoony",
+      "Data": [
+        {"Name": "Idle", "Type": "idle", "ID": "0"},
+        {"Name": "Walk", "Type": "walk", "ID": "0"},
+        {"Name": "Run", "Type": "run", "ID": "0"},
+        {"Name": "Jump", "Type": "jump", "ID": "0"},
+        {"Name": "Fall", "Type": "fall", "ID": "0"}
+      ]
+    },
+
+    {
+      "Label": "Robot",
+      "Key": "Robot",
+      "Data": [
+        {"Name": "Idle", "Type": "idle", "ID": "0"},
+        {"Name": "Walk", "Type": "walk", "ID": "0"},
+        {"Name": "Run", "Type": "run", "ID": "0"},
+        {"Name": "Jump", "Type": "jump", "ID": "0"},
+        {"Name": "Fall", "Type": "fall", "ID": "0"}
+      ]
+    },
+
+    {
+      "Label": "Oldschool",
+      "Key": "Oldschool",
+      "Data": [
+        {"Name": "Idle", "Type": "idle", "ID": "0"},
+        {"Name": "Walk", "Type": "walk", "ID": "0"},
+        {"Name": "Run", "Type": "run", "ID": "0"},
+        {"Name": "Jump", "Type": "jump", "ID": "0"},
+        {"Name": "Fall", "Type": "fall", "ID": "0"}
+      ]
+    },
+
+    {
+      "Label": "GangnamStyle",
+      "Key": "GangnamStyle",
+      "Data": [
+        {"Name": "Idle", "Type": "idle", "ID": "0"},
+        {"Name": "Walk", "Type": "walk", "ID": "0"},
+        {"Name": "Run", "Type": "run", "ID": "0"},
+        {"Name": "Jump", "Type": "jump", "ID": "0"},
+        {"Name": "Fall", "Type": "fall", "ID": "0"}
+      ]
+    },
+
+    {
+      "Label": "Skater",
+      "Key": "Skater",
+      "Data": [
+        {"Name": "Idle", "Type": "idle", "ID": "0"},
+        {"Name": "Walk", "Type": "walk", "ID": "0"},
+        {"Name": "Run", "Type": "run", "ID": "0"},
+        {"Name": "Jump", "Type": "jump", "ID": "0"},
+        {"Name": "Fall", "Type": "fall", "ID": "0"}
+      ]
+    },
+
+    {
+      "Label": "Jetpack",
+      "Key": "Jetpack",
+      "Data": [
+        {"Name": "Idle", "Type": "idle", "ID": "0"},
+        {"Name": "Walk", "Type": "walk", "ID": "0"},
+        {"Name": "Run", "Type": "run", "ID": "0"},
+        {"Name": "Jump", "Type": "jump", "ID": "0"},
+        {"Name": "Fall", "Type": "fall", "ID": "0"}
+      ]
+    },
+
+    {
+      "Label": "Tall",
+      "Key": "Tall",
+      "Data": [
+        {"Name": "Idle", "Type": "idle", "ID": "0"},
+        {"Name": "Walk", "Type": "walk", "ID": "0"},
+        {"Name": "Run", "Type": "run", "ID": "0"},
+        {"Name": "Jump", "Type": "jump", "ID": "0"},
+        {"Name": "Fall", "Type": "fall", "ID": "0"}
+      ]
+    },
+
+    {
+      "Label": "Kawaii",
+      "Key": "Kawaii",
+      "Data": [
+        {"Name": "Idle", "Type": "idle", "ID": "0"},
+        {"Name": "Walk", "Type": "walk", "ID": "0"},
+        {"Name": "Run", "Type": "run", "ID": "0"},
+        {"Name": "Jump", "Type": "jump", "ID": "0"},
+        {"Name": "Fall", "Type": "fall", "ID": "0"}
+      ]
+    },
+
+    {
+      "Label": "DivaEffortless",
+      "Key": "DivaEffortless",
+      "Data": [
+        {"Name": "Idle", "Type": "idle", "ID": "0"},
+        {"Name": "Walk", "Type": "walk", "ID": "0"},
+        {"Name": "Run", "Type": "run", "ID": "0"},
+        {"Name": "Jump", "Type": "jump", "ID": "0"},
+        {"Name": "Fall", "Type": "fall", "ID": "0"}
+      ]
+    },
+
+    {
+      "Label": "BillieEilish",
+      "Key": "BillieEilish",
+      "Data": [
+        {"Name": "Idle", "Type": "idle", "ID": "0"},
+        {"Name": "Walk", "Type": "walk", "ID": "0"},
+        {"Name": "Run", "Type": "run", "ID": "0"},
+        {"Name": "Jump", "Type": "jump", "ID": "0"},
+        {"Name": "Fall", "Type": "fall", "ID": "0"}
+      ]
+    }
+  ]
+}

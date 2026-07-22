@@ -579,7 +579,7 @@
   ],
 
   "Packs": [
-    {
+ {
       "Label": "ADIDAS",
       "Key": "Adidas",
       "Data": [
@@ -620,6 +620,204 @@
         {"Name": "Swim", "Type": "swim", "ID": "10921324408"},
         {"Name": "Swim Idle", "Type": "swimidle", "ID": "10921325443"},
         {"Name": "Climb", "Type": "climb", "ID": "10921314188"}
+      ]
+    },
+
+    {
+      "Label": "CAVEMAN",
+      "Key": "Caveman",
+      "Data": [
+        {
+          "Name": "Idle",
+          "Type": "idle",
+          "ID": [
+            {"ID": "108810925792425", "Weight": 1},
+            {"ID": "88750181057760", "Weight": 9}
+          ]
+        },
+        {"Name": "Walk", "Type": "walk", "ID": "100261336677760"},
+        {"Name": "Run", "Type": "run", "ID": "71678552529739"},
+        {"Name": "Jump", "Type": "jump", "ID": "102085913079595"},
+        {"Name": "Fall", "Type": "fall", "ID": "78177091130743"},
+        {"Name": "Swim", "Type": "swim", "ID": "137455196788464"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "110130600213868"},
+        {"Name": "Climb", "Type": "climb", "ID": "85159530905414"}
+      ]
+    },
+
+    {
+      "Label": "CHEERFUL",
+      "Key": "Cheerful",
+      "Data": [
+        {
+          "Name": "Idle",
+          "Type": "idle",
+          "ID": [
+            {"ID": "132749194499904", "Weight": 9},
+            {"ID": "74475266288922", "Weight": 2}
+          ]
+        },
+        {"Name": "Walk", "Type": "walk", "ID": "133147940310930"},
+        {"Name": "Run", "Type": "run", "ID": "135324581593456"},
+        {"Name": "Jump", "Type": "jump", "ID": "128382077699353"},
+        {"Name": "Fall", "Type": "fall", "ID": "78032123545196"},
+        {"Name": "Swim", "Type": "swim", "ID": "118733016965421"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "91181706173657"},
+        {"Name": "Climb", "Type": "climb", "ID": "75299788576100"}
+      ]
+    },
+
+    {
+      "Label": "POWERFUL",
+      "Key": "Powerful",
+      "Data": [
+        {"Name": "Idle", "Type": "idle", "ID": "87459355771438"},
+        {"Name": "Walk", "Type": "walk", "ID": "137814344148389"},
+        {"Name": "Run", "Type": "run", "ID": "77086876186140"},
+        {"Name": "Jump", "Type": "jump", "ID": "91533959293313"},
+        {"Name": "Fall", "Type": "fall", "ID": "84315999988752"},
+        {"Name": "Swim", "Type": "swim", "ID": "93906325285234"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "134063492638038"},
+        {"Name": "Climb", "Type": "climb", "ID": "102310032065483"}
+      ]
+    },
+
+    {
+      "Label": "CUTESIT",
+      "Key": "Cutesit",
+      "Data": [
+        {"Name": "Idle", "Type": "idle", "ID": "115262191824432"},
+        {"Name": "Walk", "Type": "walk", "ID": "83633687614676"},
+        {"Name": "Run", "Type": "run", "ID": "122029335804025"},
+        {"Name": "Jump", "Type": "jump", "ID": "80979665819804"},
+        {"Name": "Fall", "Type": "fall", "ID": "99503507671879"},
+        {"Name": "Swim", "Type": "swim", "ID": "139811880233736"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "127869021418278"},
+        {"Name": "Climb", "Type": "climb", "ID": "98012061791076"}
+      ]
+    },
+
+    {
+      "Label": "MONKEY",
+      "Key": "Monkey",
+      "Data": [
+        {"Name": "Idle", "Type": "idle", "ID": "134953487950642"},
+        {"Name": "Walk", "Type": "walk", "ID": "111534742481493"},
+        {"Name": "Run", "Type": "run", "ID": "125757297526506"},
+        {"Name": "Jump", "Type": "jump", "ID": "139916877560983"},
+        {"Name": "Fall", "Type": "fall", "ID": "74923388605636"},
+        {"Name": "Swim", "Type": "swim", "ID": "95082753957860"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "106360638260442"},
+        {"Name": "Climb", "Type": "climb", "ID": "135639266734632"}
+      ]
+    },
+
+    {
+      "Label": "HANDSTAND",
+      "Key": "Handstand",
+      "Data": [
+        {
+          "Name": "Idle",
+          "Type": "idle",
+          "ID": [
+            {"ID": "86947374328991", "Weight": 9},
+            {"ID": "113397737826802", "Weight": 2}
+          ]
+        },
+        {"Name": "Walk", "Type": "walk", "ID": "140388533388390"},
+        {"Name": "Run", "Type": "run", "ID": "79275575781727"},
+        {"Name": "Jump", "Type": "jump", "ID": "114308593502713"},
+        {"Name": "Fall", "Type": "fall", "ID": "126572237786590"},
+        {"Name": "Swim", "Type": "swim", "ID": "131459780065052"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "121026698871149"},
+        {"Name": "Climb", "Type": "climb", "ID": "99569284211522"}
+      ]
+    },
+
+    {
+      "Label": "GLITCH",
+      "Key": "Glitch",
+      "Data": [
+        {
+          "Name": "Idle",
+          "Type": "idle",
+          "ID": [
+            {"ID": "78788007182057", "Weight": 1},
+            {"ID": "99686194237390", "Weight": 2}
+          ]
+        },
+        {"Name": "Walk", "Type": "walk", "ID": "86581281495746"},
+        {"Name": "Run", "Type": "run", "ID": "73564415656085"},
+        {"Name": "Jump", "Type": "jump", "ID": "124663540272175"},
+        {"Name": "Fall", "Type": "fall", "ID": "88389650871979"},
+        {"Name": "Swim", "Type": "swim", "ID": "72766872622691"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "127278123803134"},
+        {"Name": "Climb", "Type": "climb", "ID": "137059146147985"}
+      ]
+    },
+
+    {
+      "Label": "BASKETBALL",
+      "Key": "Basketball",
+      "Data": [
+        {
+          "Name": "Idle",
+          "Type": "idle",
+          "ID": [
+            {"ID": "121387459569738", "Weight": 9},
+            {"ID": "136278377775190", "Weight": 1}
+          ]
+        },
+        {"Name": "Walk", "Type": "walk", "ID": "119397669593095"},
+        {"Name": "Run", "Type": "run", "ID": "73850283738057"},
+        {"Name": "Jump", "Type": "jump", "ID": "117970909847836"},
+        {"Name": "Fall", "Type": "fall", "ID": "106626451147451"},
+        {"Name": "Swim", "Type": "swim", "ID": "120010766960046"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "80322701154931"},
+        {"Name": "Climb", "Type": "climb", "ID": "88999855004397"}
+      ]
+    },
+
+    {
+      "Label": "PUPPET",
+      "Key": "Puppet",
+      "Data": [
+        {
+          "Name": "Idle",
+          "Type": "idle",
+          "ID": [
+            {"ID": "102676932897120", "Weight": 10}
+          ]
+        },
+        {"Name": "Walk", "Type": "walk", "ID": "132694395200214"},
+        {"Name": "Run", "Type": "run", "ID": "110210242864856"},
+        {"Name": "Jump", "Type": "jump", "ID": "119087049567050"},
+        {"Name": "Fall", "Type": "fall", "ID": "136783826635675"},
+        {"Name": "Swim", "Type": "swim", "ID": "101517825122009"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "130929517603823"},
+        {"Name": "Climb", "Type": "climb", "ID": "103461949941528"}
+      ]
+    },
+
+    {
+      "Label": "HERO",
+      "Key": "Hero",
+      "Data": [
+        {
+          "Name": "Idle",
+          "Type": "idle",
+          "ID": [
+            {"ID": "126336974856245", "Weight": 9},
+            {"ID": "94927445086582", "Weight": 3}
+          ]
+        },
+        {"Name": "Walk", "Type": "walk", "ID": "79423599011267"},
+        {"Name": "Run", "Type": "run", "ID": "92829587211933"},
+        {"Name": "Jump", "Type": "jump", "ID": "120884894019747"},
+        {"Name": "Fall", "Type": "fall", "ID": "115683720994722"},
+        {"Name": "Swim", "Type": "swim", "ID": "76635198335551"},
+        {"Name": "Swim Idle", "Type": "swimidle", "ID": "89015744503700"},
+        {"Name": "Climb", "Type": "climb", "ID": "117527926148602"}
       ]
     },
 
